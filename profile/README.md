@@ -6,4 +6,4 @@
 
 # <span dir="">:eyes:</span>**For newcomers**
 
-* [Start onboarding](https://git.2io.us/iogru/iogru-frontend/-/wikis/Start-onboarding)
+* [Start onboarding](https://github.com/iogru-kitten/docs/blob/main/start-onboarding.md)
